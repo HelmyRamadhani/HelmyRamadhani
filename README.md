@@ -28,7 +28,7 @@ My competencies include:
 
 🟠 Machine learning (supervised, unsupervised, NLP, Image Recognition)
 
-## ** Tools** 🧰
+## **Tools** 🧰
 
 I am proficient in the following tools:
 
